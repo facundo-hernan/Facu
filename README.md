@@ -3,3 +3,9 @@ Soy un Desarrollador Web, apasionado por aprender sobre tecnología y nuevas act
 En este momento te puedo ayudar sobre programación web.
 
 
+MIS HABILIDADES
+<i class="fa-brands fa-html5"></i>
+
+
+
+
